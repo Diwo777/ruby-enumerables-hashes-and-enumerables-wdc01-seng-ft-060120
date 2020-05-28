@@ -7,7 +7,7 @@ require "pry"
 
 def happy_birthday(birthday_kids)
   birthday_kids.each do |kid, age| 
- binding.pry   
-  end
+ end
+   binding.pry  end
   
 end
