@@ -10,6 +10,7 @@ def happy_birthday(birthday_kids)
     counter = 0 
     while counter < 3 
     puts "Happy Birthday #{kid[counter]}! You are now #{age[counter]} years old!"
-    counter++
+    counter+=1
  end 
+end
 end
