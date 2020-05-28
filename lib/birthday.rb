@@ -12,6 +12,4 @@ def happy_birthday(birthday_kids)
     puts "Happy Birthday #{kid[counter]}! You are now #{age[counter]} years old!"
     counter++
  end 
-   
-  
 end
